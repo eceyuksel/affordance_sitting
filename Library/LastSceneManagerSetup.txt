@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/UP_BASE_2.5M.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
